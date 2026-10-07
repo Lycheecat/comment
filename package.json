@@ -1,0 +1,14 @@
+{
+  "name": "nodemodule",
+  "version": "1.0.0",
+  "description": "learn node js",
+  "license": "ISC",
+  "author": "jvstn",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
